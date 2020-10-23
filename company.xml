@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="company.xsl"?>
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="company.xsd">
+	
+	<Employee>
+		<ID>1</ID>
+		<Name>SAM JOSEPH</Name>
+   <Age>30</Age>
+   <Salary>60000</Salary>
+ <Email>sam@gmail.com</Email>
+ <Phn>9703625364</Phn>
+ <Designation>Project Manger</Designation>
+	</Employee>
+	
+	<Employee>
+	<ID>2</ID>
+		<Name>RAM MOHAN</Name>
+ <Age>37</Age>
+ <Salary>100000</Salary>
+ <Email>ram@gmail.com</Email>
+ <Phn>9753665364</Phn>
+ <Designation>Team Manger</Designation>
+	</Employee>
+	
+	<Employee>
+	<ID>3</ID>
+		<Name>AHISHEK RAJ</Name>
+ <Age>35</Age>
+ <Salary>90000</Salary>
+ <Email>raj@gmail.com</Email>
+ <Phn>9703735364</Phn>
+ <Designation>Team Leader</Designation>
+	</Employee>
+	
+	<Employee>
+		<ID>4</ID>
+		<Name>ASHLEY JOSE</Name>
+ <Age>35</Age>
+ <Salary>70000</Salary>
+ <Email>ashley@gmail.com</Email>
+ <Phn>8403625364</Phn>
+ <Designation>Data Analyst</Designation>
+	</Employee>
+	
+	
+	</Employee>
+
+	
+</Company>
